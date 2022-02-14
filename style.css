@@ -84,6 +84,10 @@ a:hover {
   background: top no-repeat;
 }
 
+.bg-banniere {
+  background-size: cover!important; 
+}
+
 .b-parallax {
   background-attachment: fixed;
 }
@@ -796,20 +800,16 @@ h4 {
   border-color: #364577 !important;
 }
 
-.bg-dots-bg {
-  background-image: url("img/dots-bg.png");
-}
-
 .bg-lines-h2-bg {
-  background-image: url("img/lines-h2-bg.png");
+  background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
-  background-image: url("img/la-chouette-agence-banniere.jpg");
+  background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/la-chouette-agence-lyonnaise-presentation.webp")
 }
 
 @media (max-width: 1024px) {
@@ -1020,12 +1020,26 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+  .bg-banniere {
+    background-image: url("img/la-chouette-agence-banniere-767.webp");
+    background-size: cover;
+  }
+
+  .bg-presentation {
+    background-image: url("img/la-chouette-agence-lyonnaise-presentation-767.webp");
+  }
 }
 
 @media (max-width: 400px) {
   .bloc {
     padding-left: 0;
     padding-right: 0;
+  }
+  .bg-banniere {
+    background-image: url("img/la-chouette-agence-banniere-400.webp");
+  }
+  .bg-presentation {
+    background-image: url("img/la-chouette-agence-lyonnaise-presentation-400.webp");
   }
 }
 
