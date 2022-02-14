@@ -1,3 +1,7 @@
+html {
+  font-size: 14px; 
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -679,7 +683,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 1rem;
 }
 
 .tight-width-whitespace {
