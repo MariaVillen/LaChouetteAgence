@@ -1066,3 +1066,17 @@ h4 {
   font-weight: 700;
   font-size: 1rem;
 }
+
+/* Link Optimization */
+.social {
+  text-align: center;
+}
+.social .col-sm-3 {
+  display: inline-block;
+}
+a.social {
+  min-width: 48px;
+  min-height: 48px;
+  display: inline-block;
+  padding-top: 8px;
+}
