@@ -1046,3 +1046,23 @@ h4 {
     text-align: center;
   }
 }
+
+/* Texte to image */
+.citation p {
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 600;
+  color: #707070 !important;
+}
+
+.citation blockquote {
+  max-width: 562px;
+  text-align: center;
+  margin: 0 auto;
+  border: none;
+}
+
+.citation figcaption {
+  font-weight: 700;
+  font-size: 1rem;
+}
