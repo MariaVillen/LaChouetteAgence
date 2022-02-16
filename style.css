@@ -1,5 +1,5 @@
 html {
-  font-size: 14px; 
+  font-size: 14px;
 }
 
 body {
@@ -642,7 +642,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: black!important; 
+  color: black !important;
 }
 
 .container {
@@ -1015,7 +1015,6 @@ h4 {
   }
 }
 
-
 @media (max-width: 767px) {
   .bloc-mob-center-text {
     text-align: center;
@@ -1069,9 +1068,9 @@ a.social {
   color: white !important;
 }
 .bgc-black {
-    background-color: #333;
+  background-color: #333;
 }
 #bloc-8,
 .icon-md {
-    color: black!important;
+  color: black !important;
 }
