@@ -1,5 +1,5 @@
 html {
-  font-size: 14px; 
+  font-size: 14px;
 }
 
 body {
@@ -85,7 +85,7 @@ a:hover {
 }
 
 .bg-banniere {
-  background-size: cover!important; 
+  background-size: cover !important;
 }
 
 .b-parallax {
@@ -646,7 +646,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: black!important; 
+  color: black !important;
 }
 
 .container {
@@ -809,7 +809,7 @@ h4 {
 }
 
 .bg-presentation {
-  background-image: url("img/la-chouette-agence-lyonnaise-presentation.webp")
+  background-image: url("img/la-chouette-agence-lyonnaise-presentation.webp");
 }
 
 @media (max-width: 1024px) {
@@ -1015,7 +1015,6 @@ h4 {
   }
 }
 
-
 @media (max-width: 767px) {
   .bloc-mob-center-text {
     text-align: center;
@@ -1083,9 +1082,9 @@ a.social {
   color: white !important;
 }
 .bgc-black {
-    background-color: #333;
+  background-color: #333;
 }
 #bloc-8,
 .icon-md {
-    color: black!important;
+  color: black !important;
 }
