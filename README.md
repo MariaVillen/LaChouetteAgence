@@ -1,6 +1,6 @@
 # LA CHOUETTE AGENCE
-Projet 4 de la formation Developpeur Web chez OpenClassrooms
-<p align = "center">SEO du site</p>
+<p > Projet 4 de la formation Developpeur Web chez OpenClassrooms </p>
+<p >SEO du site</p>
 <p align = "center"> <img src = "https://i85.servimg.com/u/f85/19/88/52/56/lachou10.jpg" /></p>
 
 
