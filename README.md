@@ -5,7 +5,7 @@
 
 
 ## Deploy: 
-    https://mariavillen.github.io/LaChouetteAgence/
+https://mariavillen.github.io/LaChouetteAgence
 
 ## Compétences:
 
